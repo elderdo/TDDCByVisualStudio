@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CTest", "..\CTest\CTest\CTest.vcxproj", "{4CF25834-9559-4F71-BB3C-BBA873A3D2B6}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CTest", "CTest\CTest.vcxproj", "{4CF25834-9559-4F71-BB3C-BBA873A3D2B6}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UnitTestAgain", "..\CTest\UnitTestAgain\UnitTestAgain.vcxproj", "{5C10AA89-7160-4E63-9B01-26DBB65B577D}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UnitTestAgain", "UnitTestAgain\UnitTestAgain.vcxproj", "{5C10AA89-7160-4E63-9B01-26DBB65B577D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
